@@ -1,4 +1,4 @@
-# Responsive Admin Template
+# Responsive Admin Template + Login/Sign Up using mockAPI
 
 ![project1](https://github.com/dorsamhm/admin_panel/blob/main/bg1.png)
 ![project1](https://github.com/dorsamhm/admin_panel/blob/main/bg2.png)
