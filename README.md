@@ -1,6 +1,8 @@
 # Responsive Admin Template
 
-![project1](https://github.com/dorsamhm/digipay/blob/main/digiPaybg.png)
+![project1](https://github.com/dorsamhm/admin_panel/blob/main/bg1.png)
+![project1](https://github.com/dorsamhm/admin_panel/blob/main/bg2.png)
+![project1](https://github.com/dorsamhm/admin_panel/blob/main/bg3.png)
 
 - [Demo Project](https://admin-panel-seven-phi.vercel.app/)
 
