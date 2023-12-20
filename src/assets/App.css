@@ -1,0 +1,10 @@
+@font-face {
+    font-family: main;
+    src: url(Poppins-Regular.ttf);
+}
+
+
+#root, #layout{
+    font-family: main;
+    overflow-x: hidden;
+}
